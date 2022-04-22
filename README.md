@@ -1,1 +1,1 @@
-# Xception-model-project
+# Breast Tumor detection using Transfer Learning model (Xception model) and Global Pooling.
